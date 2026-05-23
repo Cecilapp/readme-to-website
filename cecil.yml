@@ -1,6 +1,5 @@
 title: Readme to Website
-description: readme-to-website demo site.
-baseurl: https://cecilapp.github.io/readme-to-website/
+description: "readme-to-website demo site."
 
 # Cecil config
 pages:
